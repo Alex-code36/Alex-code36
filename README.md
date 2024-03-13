@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal group assigned projests
 - 🌱 I’m currently learning html
 - 👯 I’m looking to collaborate on html projects
-- 📫 How to reach me: okwesilichukwuebuka@gmail.co
+- 📫 How to reach me: okwesilichukwuebuka@gmail.com
 - ⚡ Fun fact: I usually thought that those that code had two heads until I started coding.
 
